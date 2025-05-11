@@ -27,28 +27,7 @@ function Header() {
                             dark:shadow-none dark:bg-gray-800 dark:border-gray-700">
                    
                     <div className="text-gray-600 dark:text-gray-300 lg:pr-4 lg:w-auto w-full lg:pt-0">
-                        <ul className="tracking-wide font-medium lg:text-sm flex-col flex lg:flex-row gap-6 lg:gap-0">
-                            <li>
-                                <a href="/" className="block md:px-4 transition hover:text-primary">
-                                    <span>Features</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="/" className="block md:px-4 transition hover:text-primary">
-                                    <span>Solution</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="/" className="block md:px-4 transition hover:text-primary">
-                                    <span>Testimonials</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#" className="block md:px-4 transition hover:text-primary">
-                                    <span>Blog</span>
-                                </a>
-                            </li>
-                        </ul>
+                    
                     </div>
 
                     <div className="mt-12 lg:mt-0">
